@@ -1,4 +1,4 @@
-**Hello, and welcome to this wicked beta Github site!** 
+**Hello, and welcome to this very spare Github site!** 
 
 I am Adam Speirs, and here’s a little bit about me professionally:
 
