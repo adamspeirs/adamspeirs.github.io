@@ -22,5 +22,3 @@ A few areas of research interest and specialization that are worth highlighting:
 * Information Governance
 * Professional Education and Outreach
 * Community Engagement
-
-[Home](https://adamspeirs.github.io/)
