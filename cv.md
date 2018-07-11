@@ -1,80 +1,86 @@
-#CV
+## CV
 
-##EDUCATION
+### EDUCATION
 
-Masters of Library and Information Science – Archives, Preservation, and Records Management 2011
+**Masters of Library and Information Science – Archives, Preservation, and Records Management 2011**
 University of Pittsburgh, School of Information Science
 Research Interests: Records Management, Digital Preservation and Legacy Data, Fundraising.
 
-Bachelor of Arts English Literature 2010
+**Bachelor of Arts English Literature 2010**
 Metropolitan State College of Denver
 Minor: Linguistics
 Honors Thesis: On the Michael Sam March Papers, 1923-1991 –– Guide to the Holdings.
 
-##PROFESSIONAL EXPERIENCE
+---
 
-Records Management Analyst
+### PROFESSIONAL EXPERIENCE
+
+**Records Management Analyst**
 Denver Water
 June 2017-Present
 
-Archivist 
+**Archivist** 
 Douglas County Libraries
 July 2013-June 2017
 
-Program Director 
+**Program Director** 
 Society of Rocky Mountain Archivists
 May 2016 – May 2017
 
-Member-at-Large
+**Member-at-Large**
 Society of Rocky Mountain Archivists
 May 2015 – May 2016
 
-Assistant Archivist
+**Assistant Archivist**
 Douglas County Libraries
 September 2012 – July 2013
 
-Contract Archivist
+**Contract Archivist**
 *private family*
 November 2012-July 2013
 
-Board Member, President / Grant Program Manager
+**Board Member, President / Grant Program Manager**
 Art from Ashes Inc.
 May 2012-January 2014
 
-Contract Archivist
+**Contract Archivist**
 University of Colorado Denver – Auraria Library Archives and Special Collections
 February 2012-June 2012
 
-Volunteer Archivist
+**Volunteer Archivist**
 University of Colorado Denver – Auraria Library Archives and Special Collections
 October 2011-February 2012
 
-Digitization Archivist
+**Digitization Archivist**
 Heinz Family Office – Archives
 January 2011-August 2011
 
-Intern Archivist
+**Intern Archivist**
 Carnegie Mellon University Libraries – University Archives
 August 2010-August 2011
 
-Archives Assistant 
+**Archives Assistant** 
 University of Colorado Denver – Auraria Library Archives and Special Collections
 August 2008-May 2010
 
-PUBLICATIONS
+---
 
-Oral History in Your Library: Create Shelf Space for Community Voice
+### PUBLICATIONS
+
+**Oral History in Your Library: Create Shelf Space for Community Voice**
 Cyns Nelson with contributions by Adam Speirs. Libraries Unlimited, July 2018.
 
-COMMUNITY
+--- 
 
-“SRMA Professional Education Opportunities”
-The Rocky Mountain Archivist. Volume 33, Issue 3-4. Society of Rocky Mountain Archivists: Fall/Winter 2016, p. 7.
-https://web.archive.org/web/20170311204227/http://www.srmarchivists.org/wordpress/wp-content/uploads/2017/01/2016-Fall-Winter-newsletter.pdf
+### COMMUNITY
 
-“You can rest easy with your records organized”
-Castle Rock News-Press, December 2, 2015.
-https://web.archive.org/web/20160731203838/http://castlerocknewspress.net/stories/You-can-rest-easy-with-your-records-organized,203324
+**“SRMA Professional Education Opportunities”**
+[The Rocky Mountain Archivist. Volume 33, Issue 3-4. Society of Rocky Mountain Archivists: Fall/Winter 2016, p. 7.]
+(https://web.archive.org/web/20170311204227/http://www.srmarchivists.org/wordpress/wp-content/uploads/2017/01/2016-Fall-Winter-newsletter.pdf)
+
+**“You can rest easy with your records organized”**
+[Castle Rock News-Press, December 2, 2015.]
+(https://web.archive.org/web/20160731203838/http://castlerocknewspress.net/stories/You-can-rest-easy-with-your-records-organized,203324)
 
 “A Few Key Takeaways from SAA 2013”
 The Rocky Mountain Archivist. Volume 30, Issue 3. Society of Rocky Mountain Archivists: Fall 2013, p. 7.
