@@ -1,3 +1,5 @@
+[About](https://adamspeirs.github.io/about.html) | [CV](https://adamspeirs.github.io/cv.html) | [Retired Sites](https://adamspeirs.github.io/retiredsites.html) | [Home](https://adamspeirs.github.io/)
+
 #### EDUCATION
 
 **Masters of Library and Information Science – Archives, Preservation, and Records Management 2011**
