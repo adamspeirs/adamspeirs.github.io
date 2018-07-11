@@ -11,10 +11,6 @@ I am currently serving on the board of [ArtHyve](https://www.arthyve.org), a non
 A few areas of research interest and specialization that are worth highlighting:
 
 * Digital Preservation
-* Archives Management
-* Copyright and Intellectual Property Rights
+* Information Governance
 * Professional Education and Outreach
 * Community Engagement
-* Oral History
-
-I also have a personal website over at [adamspeirs.com](https://adamspeirs.com)
