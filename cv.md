@@ -1,4 +1,5 @@
 Curriculum Vitae
+
 EDUCATION
 
 Masters of Library and Information Science – Archives, Preservation, and Records Management 2011
