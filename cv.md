@@ -1,6 +1,6 @@
-Curriculum Vitae
+#CV
 
-EDUCATION
+##EDUCATION
 
 Masters of Library and Information Science – Archives, Preservation, and Records Management 2011
 University of Pittsburgh, School of Information Science
@@ -11,7 +11,7 @@ Metropolitan State College of Denver
 Minor: Linguistics
 Honors Thesis: On the Michael Sam March Papers, 1923-1991 –– Guide to the Holdings.
 
-PROFESSIONAL EXPERIENCE
+##PROFESSIONAL EXPERIENCE
 
 Records Management Analyst
 Denver Water
@@ -170,5 +170,10 @@ Board Member, 2010.
 
 AWARDS
 
+2018 Chapter Member of the Year – Mile High Denver Chapter of ARMA 
+
 2015 Staff Recognition Award – Douglas County History Research Center Special Projects: “Where Do You Think You Are?” Program series and Digital Preservation Initiatives
 Douglas County Libraries, April 2016
+
+
+[Home](https://adamspeirs.github.io/)
