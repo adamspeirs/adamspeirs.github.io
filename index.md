@@ -1,8 +1,6 @@
 **Hello, and welcome to this very spare Github site!** 
 
-[About](https://adamspeirs.github.io/about.html) 
-
-[CV](https://adamspeirs.github.io/cv.html) 
+[About](https://adamspeirs.github.io/about.html) | [CV](https://adamspeirs.github.io/cv.html) 
 
 ---
 
