@@ -1,7 +1,4 @@
-
-## CV
-
-### EDUCATION
+#### EDUCATION
 
 **Masters of Library and Information Science – Archives, Preservation, and Records Management 2011**
 University of Pittsburgh, School of Information Science
@@ -14,7 +11,7 @@ Honors Thesis: On the Michael Sam March Papers, 1923-1991 –– Guide to the Ho
 
 ---
 
-### PROFESSIONAL EXPERIENCE
+#### PROFESSIONAL EXPERIENCE
 
 **Records Management Analyst**
 Denver Water
@@ -66,14 +63,14 @@ August 2008-May 2010
 
 ---
 
-### PUBLICATIONS
+#### PUBLICATIONS
 
 **Oral History in Your Library: Create Shelf Space for Community Voice**
 Cyns Nelson with contributions by Adam Speirs. Libraries Unlimited, July 2018.
 
 --- 
 
-### COMMUNITY
+#### COMMUNITY
 
 **“SRMA Professional Education Opportunities”**
 [The Rocky Mountain Archivist. Volume 33, Issue 3-4. Society of Rocky Mountain Archivists: Fall/Winter 2016, p. 7.](https://web.archive.org/web/20170311204227/http://www.srmarchivists.org/wordpress/wp-content/uploads/2017/01/2016-Fall-Winter-newsletter.pdf)
@@ -95,7 +92,7 @@ Cyns Nelson with contributions by Adam Speirs. Libraries Unlimited, July 2018.
 
 ---
 
-### PRESENTATIONS
+#### PRESENTATIONS
 
 **“Giving Your Community Back its Voices: Making Your Oral History Collections Fully Accessible”**
 [Joint presentation with Cyns Nelson and Tammie Moe for the Public Library Association 2016 Conference, Denver, CO, April 9, 2016.](https://web.archive.org/web/20160731203732/http://www.placonference.org/program/giving-your-community-back-its-voices-making-your-oral-history-collections-fully-accessible/)
@@ -117,7 +114,7 @@ Cyns Nelson with contributions by Adam Speirs. Libraries Unlimited, July 2018.
 
 ---
 
-### PROFESSIONAL MEMBERSHIPS
+#### PROFESSIONAL MEMBERSHIPS
 
 **ARMA International**
 Member, 2017-Present
@@ -154,7 +151,7 @@ Member, 2012-2018.
 
 ---
 
-### COMMUNITY 
+#### COMMUNITY 
 
 **ArtHyve**
 Board Member, 2017-Present
@@ -171,7 +168,7 @@ Board Member, 2010.
 
 ---
 
-### AWARDS
+#### AWARDS
 
 **2018 Chapter Member of the Year** – Mile High Denver Chapter of ARMA 
 
