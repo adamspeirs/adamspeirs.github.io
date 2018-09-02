@@ -8,6 +8,8 @@
 
 ---
 
+![alt text](https://avatars3.githubusercontent.com/u/20523785?s=400&u=bcff1bfb30c3f103cf9f0ee29c4f8b720dbf5050&v=4.png)
+
 Here’s a little bit about me professionally:
 
 I have worked in academic, private, public and government archives since 2007, and am currently working with Denver Water, Colorado's oldest and largest water utility.
