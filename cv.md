@@ -114,6 +114,9 @@ Cyns Nelson with contributions by Adam Speirs. Libraries Unlimited, July 2018.
 
 #### Presentations 
 
+**"Wrangling Digital Objects and Metadata at Denver Water"**
+[Presentation to Metadata and Digital Object Section at Society of American Archivists/Council of State Archivists/National Association of Government Archives and Records Administrators Joint Annual Meeting, Washington DC, August 1, 2018.](https://web.archive.org/web/20180921172723/https://www2.archivists.org/groups/metadata-and-digital-object-section/presentations-at-2018-mdos-annual-meeting)
+
 **“Giving Your Community Back its Voices: Making Your Oral History Collections Fully Accessible”**
 [Joint presentation with Cyns Nelson and Tammie Moe for the Public Library Association 2016 Conference, Denver, CO, April 9, 2016.](https://web.archive.org/web/20160731203732/http://www.placonference.org/program/giving-your-community-back-its-voices-making-your-oral-history-collections-fully-accessible/)
 
