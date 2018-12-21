@@ -23,6 +23,9 @@ Honors Thesis: On the Michael Sam March Papers, 1923-1991 –– Guide to the Ho
 
 #### Certificates 
 
+**[Information Governance Professional](https://arma.credly.com/member-badges/15523990), 2018-2021**
+ARMA International
+
 **[Digital Archives Specialist](https://www2.archivists.org/prof-education/das-curriculum-structure), 2016-2021** 
 Society of American Archivists 
 
