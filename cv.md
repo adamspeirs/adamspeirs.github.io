@@ -8,7 +8,7 @@
 
 ---
 
-### Education
+#### Education
 
 **Masters of Library and Information Science – Archives, Preservation, and Records Management 2011**
 University of Pittsburgh, School of Information Science
@@ -21,7 +21,7 @@ Honors Thesis: On the Michael Sam March Papers, 1923-1991 –– Guide to the Ho
 
 ---
 
-### Certificates 
+#### Certificates 
 
 **[Information Governance Professional](https://arma.credly.com/member-badges/15523990), 2018-2021**
 ARMA International
@@ -34,7 +34,7 @@ AIIM International
 
 ---
 
-### Professional Experience 
+#### Professional Experience 
 
 **Records Management Analyst**
 Denver Water
@@ -86,14 +86,14 @@ August 2008-May 2010
 
 ---
 
-### Publications
+#### Publications
 
 **Oral History in Your Library: Create Shelf Space for Community Voice**
 Cyns Nelson with contributions by Adam Speirs. Libraries Unlimited, July 2018.
 
 --- 
 
-### Presentations 
+#### Presentations 
 
 **"Wrangling Digital Objects and Metadata at Denver Water"**
 [Presentation to Metadata and Digital Object Section at Society of American Archivists/Council of State Archivists/National Association of Government Archives and Records Administrators Joint Annual Meeting, Washington DC, August 1, 2018.](https://web.archive.org/web/20180921172723/https://www2.archivists.org/groups/metadata-and-digital-object-section/presentations-at-2018-mdos-annual-meeting)
@@ -118,7 +118,7 @@ Cyns Nelson with contributions by Adam Speirs. Libraries Unlimited, July 2018.
 
 ---
 
-### Community 
+#### Community 
 
 **“SRMA Professional Education Opportunities”**
 [The Rocky Mountain Archivist. Volume 33, Issue 3-4. Society of Rocky Mountain Archivists: Fall/Winter 2016, p. 7.](https://web.archive.org/web/20170311204227/http://www.srmarchivists.org/wordpress/wp-content/uploads/2017/01/2016-Fall-Winter-newsletter.pdf)
@@ -140,7 +140,7 @@ Cyns Nelson with contributions by Adam Speirs. Libraries Unlimited, July 2018.
 
 ---
 
-### Professional Memberships 
+#### Professional Memberships 
 
 **ARMA International**
 Member, 2017-Present
@@ -177,7 +177,7 @@ Member, 2012-2018.
 
 ---
 
-### Community  
+#### Community  
 
 **ArtHyve**
 Board Member, 2017-Present
@@ -194,7 +194,7 @@ Board Member, 2010.
 
 ---
 
-### Awards
+#### Awards
 
 **2018 Chapter Member of the Year** – Mile High Denver Chapter of ARMA 
 
