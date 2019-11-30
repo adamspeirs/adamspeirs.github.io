@@ -24,6 +24,7 @@ Honors Thesis: On the Michael Sam March Papers, 1923-1991 –– Guide to the Ho
 #### Certificates 
 
 **[Certified Information Professional](https://www.credential.net/7df64ade-d60a-4f0b-8584-dd5b5050617b), 2019-2022**
+AIIM
 
 **[Information Governance Professional](https://arma.credly.com/member-badges/15523990), 2018-2021**
 ARMA International
