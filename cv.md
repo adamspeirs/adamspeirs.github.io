@@ -183,7 +183,7 @@ Member, 2012-2018.
 #### Community  
 
 **ArtHyve**
-Board Member, 2017-Present
+Board Member, 2017-2019.
 
 **Lighthouse Writers Workshop**
 2015-Present.
